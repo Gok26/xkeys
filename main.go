@@ -385,6 +385,8 @@ func keywords() []string {
 		"response_data_url",
 		"root_password",
 		"sa_password",
+		"s3_access_key_id",
+		"s3_secret_key",
 		"secret",
 		"secret_access_key",
 		"secret_bearer",
